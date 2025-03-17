@@ -1,0 +1,27 @@
+Jargons: -
+Jargon refers to the specialized language or vocabulary used by a particular group or profession. It can include technical terms, abbreviations, and slang that are not commonly understood by those outside the group.
+So , in this article we will se some jargons of the internet which are easy to understand but they are just give some fancy names or short hand notations.
+Let’s start with the very basic one on which whole internet works is
+HTTP: -
+The full form of HTTP is Hyper Text Transfer protocol is a communication protocol used to transfer data between web clients (like browsers) and web servers. It is the foundation of data exchange on the internet and is commonly used for loading web pages, APIs, and more. HTTP works based on the request-response model.
+protocols are nothing but a set of rules to do a specific thing everything on internet has some protocols for its usage .
+Client :-The user or device that requests information or services from a server.
+Server :- A continuously running computer system that responds to requests made by clients.
+User agent :- Commonly known as the browser, it sends requests to the server on behalf of the user.
+The above image shows the working of req response model where a client/browser sends a request and after receiving the request the server responds to that request . The request sent by the client can be of many types like Get , Insert , Delete.. etc. What action to perform is also called “VERB”.
+Just a little history, HTTP was never released by the CERN for public usage it for only for them where a researcher just sends his research paper on the internet where it contains “HYPER TEXTS” which means a reference paper’s link which directs to some other document.
+This was HTTP 1.0
+The next versions of http are http 1.1 and http 2.0 which are widely used today for web pages which contains many features like inserting images, mp4, mp3 etc. They are also secure as HTTP 2.0 uses encryption. It also uses Multiplexing which is a technique used in telecommunications and computer networks to transmit multiple signals or streams of information simultaneously over a single communication channel and also compression in which data is compressed for easy loading and also easily accessing the websites in low end devices and also the data consumed is low so in slow network speed the site can load easily.
+HTTPS: -
+The full form of HTTPS is “HYPER TEXT TRANSFER PROTOCOL SECURE” it is an encrypted version of HTTP. It uses TLS (Transport Layer Security) or SSL (Secure Socket Layers) to encrypt the communication between your web browser and the website you're visiting. This means that any data transmitted, such as passwords, credit card information, or personal messages, is scrambled and unreadable to eavesdroppers.
+In simple mathematical terms, HTTP + TLS = HTTPS.
+TCP: -
+The full form of TCP is “TRANSMISSION CONTROL PROTOCOL", it is connection-oriented protocol that establishes a reliable connection between the sender and receiver before transmitting data. It ensures that all data is delivered in the correct order and without errors.
+UDP: -
+The full form of UDP is “User Datagram Protocol”, it is a connectionless protocol that does not establish a reliable connection before transmitting data. It does not guarantee that data will be delivered or that it will arrive in the correct order.
+IP ADDRESS: -
+An IP address is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.
+URL (Uniform Resource Locator): -
+It's essentially the address of a specific resource (like a webpage, image, or file) on the internet.
+DNS (Domain Name System): -
+It translates human-readable domain names (like "google.com") into machine-readable IP addresses (like 172.217.160.142).This makes it easier for us to remember and use website addresses instead of complex numbers.
