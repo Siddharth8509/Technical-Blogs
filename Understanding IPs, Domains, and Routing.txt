@@ -1,0 +1,59 @@
+IP ADDRESSES
+
+
+IP Addresses or Internet protocols are unique number assigned to each device that is connected to the internet that uses internet protocol for communication. It serves 2 main purposes: -
+
+It helps us uniquely identifying the devices
+
+It helps us get the location/address of the device by which sending the packets from source to that destination easier.
+
+There are 2 types of IP addresses IPv4 and IPv6 lets see wat they are and how do they help us: -
+
+1.IPv4
+IPv4 stand for INTERNET PROTOCOL VERSION 4 and it is widely used in devices to help them communicate through internet and helps in sending and receiving data packets or data.
+
+An IPV4 address is 32-bit address written decimal as 4 octets separated by dots for example: - 192.23.45.0
+
+IP addresses are hosted on servers with IPv4 addresses.
+
+Since IP address are limited, we use Network address translation to use multiple IP address for same device
+
+IPv4 addresses works with DNS to translate domain names for example(google.com) into IP addresses: -google.com → 142.250.190.46
+
+2.IPv6
+IPv6 stands for INTERNET PROTCOL VERSION 6
+
+IPv6 were made because IPv4’s was running out of addresses and also, they provide us with better security and improved network efficiency.
+
+IPv6 address is 128 bits. (e.g., 2001:0db8:85a3::8a2e:370:7334)
+
+IPv6 doesn’t use broadcast as it reduces network congestion rather than this it uses Unicasts Address (For one-to-one communication, works as an Ip), Multicasts Address (Sends packets to multiple devices, replaces broadcast) and Anycast Address (sending data to the nearest node).
+
+**Domain Names
+A domain name is a human-readable address which can be used to convert the conventional IP addresses into a human-readable form like for e.g., the Ip address for google.com is 192.168.1.1 which is very complex to remember similarly for different sites there are different Ip addresses so we use domain names a real-life example for domain-names can be like how we give nick names to the person who as a very long name to call him.
+Routing
+Routing is nothing but the process of selecting best routes/paths to travel across a network. It ensures that the data is sent using a safe, secured and best path from source to the destination whether it is in a Local Area Network or Wide Area Network.
+
+Like for e.g. if we enter google.com it goes through multiple routes,gateways , paths to finally give us the result i.e., get the Ip address and open google.com.
+1.Static Routing
+They are manually configured routes done by the network administrator.
+
+Best for small networks with limited changes for e.g. LAN .
+
+Pros: - Simple, Secure and No overhead.
+
+Cons: - Doesn’t adapt to network failures.
+
+2.Dynamic Routing
+Uses routing protocols to automatically adjust routes based on network conditions.
+
+Best for large, complex networks (like the internet).
+
+Pro: Adapts to failures and traffic congestion.
+
+Con: More CPU and bandwidth usage.
+
+3.Default Routing
+A fallback route used when no specific path is found.
+
+Common in small networks to forward unknown traffic to an ISP router.
