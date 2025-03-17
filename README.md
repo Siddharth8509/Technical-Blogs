@@ -1,8 +1,14 @@
 # Technical-Blogs
-Technical Blogs that I write through my journey to become a good Full Stack Developer !
-I recently got to know about the importance of writing blogs through a cohort that I am following (ChaiCode) where it's important for us to document everything . It really helps us to Jump right back 
-to the place we want to revise and also it helps us really understand the topic inside out and also polishes our Technical Blog writing skill which will also help in our proffesional life!
+Technical blogs that I write as part of my journey to becoming a skilled Full Stack Developer!
 
-<h2>You can checkout my Blogs Here! Hashnode link :- https://hashnode.com/@SIddharthRoy  Where you can read my articles</a></h2>
+I recently learned about the importance of writing blogs through a cohort I follow (ChaiCode). As part of this journey, documenting everything helps me:
+<br>
+✅ Quickly revisit topics for revision
+<br>
+✅ Gain a deeper understanding of concepts
+<br>
+✅ Improve my technical writing skills, which will be valuable in my professional career
+
+<h2>🚀 Check out my blogs on Hashnode: <a href="https://hashnode.com/@SIddharthRoy" target="_blank">Siddharth Roy's Hashnode</a></h2>
 
 
